@@ -41,7 +41,7 @@
   ![Image](4-2-2.png)
  3.3 **combining commands**: I used the inspiration from our first lab to combine everything in to one line and runed it:
   ![Image](4-3-1.png)
-  ![Image](4-3-2.png)
+
  
  
  
