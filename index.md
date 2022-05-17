@@ -11,7 +11,9 @@
 
  
  1.3 **`scp` a file using loggin alias**: there is a word file named `1M.docx` on my computer and I transfered it to the remote computer and named it `1MRemote.docx`
- ![Image](1-3.png)
+ ![Image](1-3.png)\\
+ 
+ 
  
  ## Choice 2
  2.1 **public key storage in Github and user account**: In the second screenshot, `github_key_remote` is the key I stored in github.
@@ -26,7 +28,9 @@
   ![Image](2-3-2.png)
   
  2.4 **Link for the resulting commit**: This is my github page after this change is made
-  ![Image](2-4.png)
+  ![Image](2-4.png)\\
+  
+  
   
   ## Choice 3
  3.1 **copying whole markdown-parse directory to ieng6**: I copyed our markdown-parse directory named `markdown-parser-main` which contains 9 tests file to the remote computer.
